@@ -22,3 +22,6 @@
   background-color: #32c69a;
   color: antiquewhite;
 }
+.cardline{
+  text-decoration: none !important;
+}
