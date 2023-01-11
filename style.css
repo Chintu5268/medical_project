@@ -28,10 +28,17 @@
 .formbgcolor{
   background-color: #d8dee3;
 }
+#cal{
+ 
+  color: beige;
+  background-color: #32c69a;
+
+}
 /* =================================banner2======================================= */
 .banner2img{
   background-image: url("img/cta_1.jpg.webp");
   background-size: cover;
+  height: 200px;
   
 }
 .mrgintop{
@@ -42,4 +49,7 @@
   color: beige;
   background-color: #32c69a;
   margin-top: 50% !important;
+}
+.services{
+  background-color:aliceblue;
 }
