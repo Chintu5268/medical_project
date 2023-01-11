@@ -25,3 +25,21 @@
 .cardline{
   text-decoration: none !important;
 }
+.formbgcolor{
+  background-color: #d8dee3;
+}
+/* =================================banner2======================================= */
+.banner2img{
+  background-image: url("img/cta_1.jpg.webp");
+  background-size: cover;
+  
+}
+.mrgintop{
+  margin-top:5rem;
+}
+#call{
+  text-decoration: none;
+  color: beige;
+  background-color: #32c69a;
+  margin-top: 50% !important;
+}
