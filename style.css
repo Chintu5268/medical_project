@@ -53,6 +53,8 @@
 .services{
   background-color:aliceblue;
 }
-nav.disabled {
-  display:contents;
+.owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled {
+  display: block;
+  position: relative;
+  top: 20%;
 }
