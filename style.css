@@ -38,11 +38,11 @@
 .banner2img{
   background-image: url("img/cta_1.jpg.webp");
   background-size: cover;
-  height: 200px;
+  height: auto;
   
 }
 .mrgintop{
-  margin-top:5rem;
+  margin:5rem 0;
 }
 #call{
   text-decoration: none;
