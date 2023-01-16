@@ -58,3 +58,35 @@
   position: relative;
   top: 20%;
 }
+.backhroundcolor{
+  background-color: #d8dee3;
+
+}
+.btnbg{
+  background-color: #fff;
+
+}
+.texthover:hover{
+  color: #32c69a !important;
+
+}
+.footerimg{
+  background-image: url(img/footer.jpg.webp);
+  background-size: cover;
+  height: 600px;
+}
+.footerlogo{
+  text-decoration: none !important;
+}
+.fmrg{
+  margin-top: 6rem;
+}
+.paragrph{
+  line-height: 2.5rem;
+}
+.formbgcolor{
+  background-color: #6a6d72;
+  border: 0;
+  border-radius: 0;
+  
+}
