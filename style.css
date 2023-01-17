@@ -73,7 +73,7 @@
 .footerimg{
   background-image: url(img/footer.jpg.webp);
   background-size: cover;
-  height: 600px;
+  height: auto;
 }
 .footerlogo{
   text-decoration: none !important;
@@ -89,4 +89,25 @@
   border: 0;
   border-radius: 0;
   
+}
+/* ==========================================About Page============================================= */
+.aboutbanner{
+  background-image: url("img/about.jpg.webp");
+  background-size: cover;
+  height: 200px;
+}
+.myabout{
+  color: #fff;
+  background-color: #32c69a;
+  padding: 0.5rem;
+}
+#callnowbtn{
+text-decoration: none;
+background-color: #32c69a;
+color: #fff;
+padding: 1.1rem 1.7rem;
+font-size: 1rem;
+}
+.borderbottm{
+  border-bottom: 5px solid#32c69a;
 }
