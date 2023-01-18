@@ -111,3 +111,79 @@ font-size: 1rem;
 .borderbottm{
   border-bottom: 5px solid#32c69a;
 }
+/* ===========================================Services======================================== */
+.servicebanner{
+  background-image: url("img/services.jpg.webp");
+  background-size: cover;
+  height: 200px;
+}
+.cardbackground{
+  background-image: url("img/info_1.jpg.webp");
+  background-size: cover;
+  height: 350px;
+ opacity: 0.9;
+}
+.cardbackground2{
+  background-image: url("img/info_2.jpg.webp");
+  background-size: cover;
+  height: 350px;
+ opacity: 0.9;
+}
+.cardbackground3{
+  background-image: url("img/latest_2.jpg.webp");
+  background-size: cover;
+  height: 350px;
+ opacity: 0.9;
+}
+.chatbordr{
+  border-left: 5px solid rgb(5, 0, 0);
+  background-color: #32c69a;
+  color: #fff;
+
+}
+.chatbordr2{
+  border-left: 5px solid #d8dee3;
+  background-color: rgb(145, 129, 129);
+  color: #fff;
+
+}
+.chatbordr2:hover{
+  border-left: 5px solid rgb(5, 0, 0);
+  background-color: #32c69a;
+  color: #fff;
+
+}
+/* ===========================================news============================================= */
+#date{
+  text-decoration: none;
+  background-color:#32c69a;
+  color: #fff;
+  margin-top: 2rem;
+  padding: 0.5rem;
+}
+#paraheight{
+  color: #a6a7a6;
+  line-height: 2rem;
+}
+.bg-info{
+  background-color:#32c69a !important;
+
+}
+.tblhobveer{
+  background-color:#d8dee3;
+}
+.tblhover:hover{
+  background-color:#fff;
+}
+/* ==========================================contact======================================== */
+.formbgcolor1{
+  background-color:#e4e4e4;
+  border: none;
+  border-radius: 0;
+}
+.formbgcolor1:hover{
+  border-left: 4px solid #32c69a;
+}
+.mapwidth{
+  width: 100%;
+}
