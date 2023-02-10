@@ -89,6 +89,27 @@
   border-radius: 0;
   
 }
+.fa-pinterest,
+.fa-facebook-f,
+.fa-twitter,
+.fa-dribbble,
+.fa-behance,
+.fa-linkedin{
+border-radius: 50%;
+border: 1px solid transparent;
+
+}
+.fa-pinterest,
+.fa-facebook-f,
+.fa-twitter,
+.fa-dribbble,
+.fa-behance,
+.fa-linkedin,:hover{
+/* transform: scaleY(1.2); */
+transition:  0.4s;
+
+
+}
 /* ==========================================About Page============================================= */
 .aboutbanner{
   background-image: url("img/about.jpg.webp");
@@ -98,7 +119,7 @@
 .myabout{
   color: #fff;
   background-color: #32c69a;
-  padding: 0.5rem;
+ 
 }
 #callnowbtn{
 text-decoration: none;
@@ -109,6 +130,11 @@ font-size: 1rem;
 }
 .borderbottm{
   border-bottom: 5px solid#32c69a;
+}
+.borderbottm:hover{
+  transform: scale(1.2);
+  transition: 0.8s ease-in-out;
+
 }
 /* ===========================================Services======================================== */
 .servicebanner{
